@@ -2,6 +2,8 @@
 O "NEW SAPORECA", como o nome já diz, é uma nova versão do meu antigo e primeiro projeto - "SAPORECA". Agora, o site contara com Web Design Responsivo, além de possuir o código mais organzido, consequente do meu tempo programando.
 O site ainda está em desenvolvimento, ao decorrer do tempo será adicionado mais conteúdo nele
 
+Projeto antigo - https://github.com/lucas-jurgensen/Saporeca
+
 # LINGUAGENS UTILIZADAS 
 - html
 - css
